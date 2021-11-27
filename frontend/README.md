@@ -1,4 +1,4 @@
-# pet-shoppingmall
+# frontend
 
 ## Project setup
 ```
